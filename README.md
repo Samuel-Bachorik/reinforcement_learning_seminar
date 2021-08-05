@@ -12,5 +12,23 @@ Libraries used for this project
    - PyBullet
    - gym-andytrading
    - box2d-py
-   - swig
+   - swig<br/>
+  
+
+<img src="https://github.com/Samuel-Bachorik/reinforcement_learning_seminar/blob/main/Images/Seminar.jpg" width="600" height="730">
+
+
+# Theory
+
+General scheme of reinforcement learning<br/>
+![Seminar](https://github.com/Samuel-Bachorik/reinforcement_learning_seminar/blob/main/Images/Slide.PNG)<br/>
+![Equation](https://github.com/Samuel-Bachorik/reinforcement_learning_seminar/blob/main/Images/equatoin.jpg)<br/>
+Reward system <br/>
+![Equation](https://github.com/Samuel-Bachorik/reinforcement_learning_seminar/blob/main/Images/Slide3.jpg)<br/>
+# Comenius University Science Park building
+![UK](https://github.com/Samuel-Bachorik/reinforcement_learning_seminar/blob/main/Images/Comenius%20University%20Science%20Park%20building.jpg
+)<br/>
+
+
+
 
