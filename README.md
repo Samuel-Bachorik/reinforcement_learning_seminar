@@ -25,7 +25,7 @@ Libraries used for this project
 ![Equation](https://github.com/Samuel-Bachorik/reinforcement_learning_seminar/blob/main/Images/equatoin.jpg)<br/>
 ### Reward system <br/>
 ![Equation](https://github.com/Samuel-Bachorik/reinforcement_learning_seminar/blob/main/Images/Slide3.jpg)<br/>
-# Comenius University Science Park building
+# Comenius University Science Park
 ![UK](https://github.com/Samuel-Bachorik/reinforcement_learning_seminar/blob/main/Images/Comenius%20University%20Science%20Park%20building.jpg
 )<br/>
 
