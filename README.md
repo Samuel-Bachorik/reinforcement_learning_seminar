@@ -22,7 +22,7 @@ Libraries used for this project
 
 ### General scheme of reinforcement learning <br/>
 ![Seminar](https://github.com/Samuel-Bachorik/reinforcement_learning_seminar/blob/main/Images/Slide.PNG)<br/>
-![Equation](https://github.com/Samuel-Bachorik/reinforcement_learning_seminar/blob/main/Images/equatoin.jpg)<br/>
+![Scheme](https://github.com/Samuel-Bachorik/reinforcement_learning_seminar/blob/main/Images/equatoin.jpg)<br/>
 ### Reward system <br/>
 ![Equation](https://github.com/Samuel-Bachorik/reinforcement_learning_seminar/blob/main/Images/Slide3.jpg)<br/>
 # Comenius University Science Park
